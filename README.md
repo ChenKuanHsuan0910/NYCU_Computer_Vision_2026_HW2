@@ -1,5 +1,6 @@
 # NYCU Visual Recognition 2026 Spring — HW2: Digit Detection with DETR
 
+**Student Name:** 陳冠瑄
 **Student ID:** 313552026  
 **Leaderboard Score:** 0.36 (mAP@[0.5:0.95])
 
